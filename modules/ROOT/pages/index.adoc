@@ -1,0 +1,160 @@
+= Nuestros estándares de servicios digitales
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
+== Trabajamos en equipos multidisciplinares
+
+Disponer de equipos que puedan diseñar, construir y hacer operativo el servicio, liderado por un responsable de servicio sénior.
+
+Un equipo multidisciplinario proporciona ayuda en los siguientes aspectos:
+
+* Construir el servicio de manera autosuficiente, sin dependencias externas
+
+* Seguir mejorándolo según las necesidades de la persona usuaria
+
+* Tomar decisiones rápidamente
+
+== Empezamos con las necesidades de los usuarios
+
+Desarrollar más conocimiento sobre quiénes son las personas usuarias del servicio y lo que ello significa para el diseño del mismo.
+
+Esto es básico para construir un servicio con las siguientes características:
+
+* Que ayude a las personas usuarias a realizar fácilmente lo que necesitan hacer
+
+* Que se base en las necesidades reales de las personas usuarias, no en suposiciones
+
+== Utilizamos métodos ágiles; construimos de manera iterativa
+
+Construir el servicio utilizando métodos ágiles, iterativos y centrados en la persona usuaria final.
+
+Estos métodos ayudan a construir servicios con las siguientes características:
+
+* Satisfacen las necesidades de las personas usuarias
+
+* Son fáciles y cómodos de utilizar
+
+* Se pueden adaptar fácilmente a cambios tecnológicos o de gobierno
+
+* Se mejoran de forma continua
+
+== Reducimos la carga sobre la ciudadanía
+
+Utilizar información ya existente en la Administración:
+
+* Interoperar con otras administraciones públicas para no tener que pedir a los ciudadanos y las ciudadanas que vuelvan a aportar los mismos documentos
+
+* Eliminar documentación innecesaria
+
+* Asegurarse de que hay consentimiento para el uso de documentos personales
+
+
+== Utilizamos código abierto y estándares abiertos
+
+* Utilizar código abierto siempre que sea posible
+
+* Utilizar estándares abiertos siempre que sea posible
+
+* Hacer que todos los códigos nuevos sean abiertos y reutilizables y los publicaremos con las licencias adecuadas
+
+== Entendemos la seguridad, la privacidad y los aspectos éticos
+
+Evaluar qué datos y qué información de la persona usuaria suministrará o almacenará el servicio y abordar estas cuestiones:
+
+* Nivel de seguridad
+
+* Responsabilidades legales
+
+* Aspectos de privacidad y riesgos
+
+Las personas usuarias no utilizarán el servicio si no se garantiza lo siguiente:
+
+* Que es confidencial
+
+* Que pueden acceder a su información cuando la necesiten
+
+== Diseñamos un plan para estar fuera de servicio
+
+Los usuarios esperarán que el servicio esté disponible 24 horas al día, 365 días al año.
+
+Hay que tener un plan por si los servicios se quedan temporalmente fuera de línea. Hay que entender cómo afectará eso a las personas usuarias y cómo se puede restaurar.
+
+== Cuidamos el diseño visual y la accesibilidad
+
+Construir un servicio coherente con la experiencia de usuario en el Ayuntamiento de Barcelona, de acuerdo con las directrices de diseño visual y accesibilidad.
+
+* Las personas usuarias confían en los servicios del Ayuntamiento porque reconocen su estilo
+
+* Hay que ahorrar tiempo reutilizando los mismos patrones y centrarse en las partes singulares del servicio
+
+* Hay que utilizar patrones y estilos que se basen en estudios sobre las personas usuarias finales
+
+== Tenemos un plan para las personas que necesitan ayuda digital
+
+* Ayudar a las personas usuarias a desarrollar sus competencias digitales
+
+* Dar apoyo digital a quien no pueda utilizar los servicios digitales por sí mismo
+
+* Si se da un servicio esencial, asegurarse de que se adapta a las personas que no tienen dispositivos digitales
+
+== Evaluamos de manera continua la experiencia del usuario
+
+Poner en marcha un plan para evaluar y probar la experiencia de la persona usuaria, para poder mejorar el servicio a partir de su valoración.
+
+* Comprobar que el servicio ayuda a las personas usuarias a hacer las tareas que han de hacer
+
+* Seguir mejorando el servicio según sus necesidades
+
+== Evaluamos las herramientas, los sistemas y los servicios
+
+Evaluar las herramientas y los sistemas que se utilizan y asegurarse de los siguientes aspectos:
+
+* Se sigue el Código de Principios Tecnológicos y se entienden los riesgos técnicos asociados
+
+* Las herramientas, los sistemas y los servicios se pueden adquirir de forma sostenible, a la vez que se garantiza la independencia de los proveedores
+
+* Los servicios siguen principios de utilización ética de los datos
+
+== Reutilizamos lo que ya existe
+
+Siempre que sea posible, los servicios deben intentar reutilizar la infraestructura existente y las funciones compartidas para conseguir lo siguiente:
+
+* Crear una experiencia de servicio coherente
+
+* Ahorrar tiempo y recursos en la construcción de funcionalidades ya existentes
+
+== Ponemos en marcha un plan de mantenimiento y apoyo
+
+Tener un plan para minimizar la interrupción del servicio en caso de incidencia.
+
+Identificar los componentes básicos del servicio que tienen que estar monitorizados.
+
+Utilizar las medidas clave para la mejora continua del servicio.
+
+== Medimos e informamos sobre el rendimiento del servicio
+
+Recoger y presentar los valores de los indicadores en un formato coherente, estructurado, comprensible y accesible para el público.
+
+Utilizar indicadores de funcionamiento y rendimiento para mejorar continuamente el servicio:
+
+* Aprendiendo cuáles son sus puntos fuertes y débiles
+
+* Utilizando los datos como base de las mejoras que se quieren alcanza
+
+== Tenemos un plan para hacerlo todo en digital
+
+Los servicios digitales tienen que permitir que la ciudadanía suba, firme y compruebe sus documentos.
+
+Si los ciudadanos y las ciudadanas no pueden aportar la documentación digitalmente, el Ayuntamiento debe poner a su disposición un servicio alternativo que les digitalice la documentación.
+
+== Gestionamos el cambio
+
+* Facilitar la transición entre el servicio no digital actual y el nuevo servicio digital.
+
+* Cuando se sustituya un servicio digital, tener un plan de transición para pasar del servicio antiguo al nuevo servicio.
+
+* Migrar los datos y los documentos existentes a los nuevos formatos de servicio digital.
+
+* Evitar cualquier interrupción cuando los ciudadanos y las ciudadanas acceden al servicio y asegurar que hay un plan para promover el uso del nuevo servicio.
